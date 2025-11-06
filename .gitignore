@@ -1,0 +1,31 @@
+# Dependencies and Builds
+/node_modules
+/vendor/
+/build/
+
+# IDE and OS Files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Compiled files and Artifacts
+*.pyc
+*.o
+*.class
+*.exec
+*.zip # General compressed files
+
+# Logs and Temporary files
+*.log
+*.tmp
+*.bak
+
+# Go/Golang Artifacts (Recommended for Go projects)
+/pkg/
+/bin/
+
+# Other common executable patterns (often for Linux/Unix)
+# main 
+# app
